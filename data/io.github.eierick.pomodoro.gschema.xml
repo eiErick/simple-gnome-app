@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="pomodoro">
+	<schema id="io.github.eierick.pomodoro" path="/io/github/eierick/pomodoro/">
+	</schema>
+</schemalist>

@@ -1,0 +1,6 @@
+data/io.github.eierick.pomodoro.desktop.in
+data/io.github.eierick.pomodoro.metainfo.xml.in
+data/io.github.eierick.pomodoro.gschema.xml
+src/main.js
+src/window.js
+src/window.ui
